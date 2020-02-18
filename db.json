@@ -1,13 +1,10 @@
 {
-  "NumeroDieta": 1,
   "lunedì": {
-    "colazione": "una tazza di latte e quattro biscotti"
+    "colazione": "una tazza di latte e quattro biscotti",
+    "pranzo": "insalata con proteine, 300 grammi di ortaggi i verdura cruda o cotta con un uovo più 50 grammi di pane , 2 cucchiaini d'olio e 150 grammi di frutta "
   },
   "martedì": {
-    "colazione": " un pezzo di pane di 50 grammi con prosciutto 15 grammi e un bicchiere di estratto o spremuta di agrumi"
-  },
-  "mercoledì": {
-    "colazione": " uno yogurt 125 grammi e 40 grammi di cereali "
-  },
-  "lista_spesa": "mezzo litro di patte parzialmete scremato, tre cialde di caffe, un pacco di biscotti, 500 grammi di pane, 60 grammi di affettato,6 yogurt, un pacco di cereali , mezzo litro di latte d'avena, una scatola di te, un pacco di fette biscottate, un barattolo di marmellata, una scatola di barrette, una confezionme di frutta secca, un pacco di cialde di riso, un pacco di uova , un litro d'olio extra vergine d'oliva, un pacco di pasta , un kilo e 500 grammi di frutta, 250 grammi di carne, un pacco di riso, una busta di parmigiano reggiano, 100 grammi di patate, 650 grammi di pesce, 600 grammi di pane, 2 kili e 500 grammi di verdure e ortaggi, 1 barattolo di legumi, 150 grammi di formaggio magro "
+    "colazione": " un pezzo di pane di 50 grammi con prosciutto 15 grammi e un bicchiere di estratto o spremuta di agrumi",
+    "pranzo": "pasta intrgrale con verdure. 50 grammi di pasta integrale 150 grammi di verdure, 2 cucchiaini d'olio d'oliva, 1 cucchiaio di parmigiano e 150 grammi di frutta"
+  }
 }
