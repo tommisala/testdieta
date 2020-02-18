@@ -1,0 +1,90 @@
+{
+  "NumeroDieta": 1,
+  "Nome Dieta": "Dieta 1",
+  "scopo dieta": "dimagrimento",
+  "lunedì": {
+    "colazione": "una tazza di latte e quattro biscotti",
+    "pranzo": "pranzo di lunedì dieta 1",
+    "spuntino": "spuntino di lunedì dieta 1",
+    "cena": "cena lunedì dieta 1",
+    "merenda": "merenda lunedì dieta 1",
+    "colazioneB": "una tazza di the e 4 biscotti",
+    "pranzoB": "pranzo di lunedì dieta 1",
+    "spuntinoB": "spuntino di lunedì dieta 1",
+    "cenaB": "cena lunedì dieta 1",
+    "merendaB": "merenda lunedì dieta 1"
+  },
+  "martedì": {
+    "colazione": "una tazza di latte e quattro biscotti",
+    "pranzo": "pranzo di lunedì dieta 1",
+    "spuntino": "spuntino di lunedì dieta 1",
+    "cena": "cena lunedì dieta 1",
+    "merenda": "merenda lunedì dieta 1",
+    "colazioneB": "una tazza di the e 4 biscotti",
+    "pranzoB": "pranzo di lunedì dieta 1",
+    "spuntinoB": "spuntino di lunedì dieta 1",
+    "cenaB": "cena lunedì dieta 1",
+    "merendaB": "merenda lunedì dieta 1"
+  },
+  "mercoledì": {
+    "colazione": "una tazza di latte e quattro biscotti",
+    "pranzo": "pranzo di lunedì dieta 1",
+    "spuntino": "spuntino di lunedì dieta 1",
+    "cena": "cena lunedì dieta 1",
+    "merenda": "merenda lunedì dieta 1",
+    "colazioneB": "una tazza di the e 4 biscotti",
+    "pranzoB": "pranzo di lunedì dieta 1",
+    "spuntinoB": "spuntino di lunedì dieta 1",
+    "cenaB": "cena lunedì dieta 1",
+    "merendaB": "merenda lunedì dieta 1"
+  },
+  "giovedì": {
+    "colazione": "una tazza di latte e quattro biscotti",
+    "pranzo": "pranzo di lunedì dieta 1",
+    "spuntino": "spuntino di lunedì dieta 1",
+    "cena": "cena lunedì dieta 1",
+    "merenda": "merenda lunedì dieta 1",
+    "colazioneB": "una tazza di the e 4 biscotti",
+    "pranzoB": "pranzo di lunedì dieta 1",
+    "spuntinoB": "spuntino di lunedì dieta 1",
+    "cenaB": "cena lunedì dieta 1",
+    "merendaB": "merenda lunedì dieta 1"
+  },
+  "venerdì": {
+    "colazione": "una tazza di latte e quattro biscotti",
+    "pranzo": "pranzo di lunedì dieta 1",
+    "spuntino": "spuntino di lunedì dieta 1",
+    "cena": "cena lunedì dieta 1",
+    "merenda": "merenda lunedì dieta 1",
+    "colazioneB": "una tazza di the e 4 biscotti",
+    "pranzoB": "pranzo di lunedì dieta 1",
+    "spuntinoB": "spuntino di lunedì dieta 1",
+    "cenaB": "cena lunedì dieta 1",
+    "merendaB": "merenda lunedì dieta 1"
+  },
+  "sabato": {
+    "colazione": "una tazza di latte e quattro biscotti",
+    "pranzo": "pranzo di lunedì dieta 1",
+    "spuntino": "spuntino di lunedì dieta 1",
+    "cena": "cena lunedì dieta 1",
+    "merenda": "merenda lunedì dieta 1",
+    "colazioneB": "una tazza di the e 4 biscotti",
+    "pranzoB": "pranzo di lunedì dieta 1",
+    "spuntinoB": "spuntino di lunedì dieta 1",
+    "cenaB": "cena lunedì dieta 1",
+    "merendaB": "merenda lunedì dieta 1"
+  },
+  "domenica": {
+    "colazione": "una tazza di latte e quattro biscotti",
+    "pranzo": "pranzo di lunedì dieta 1",
+    "spuntino": "spuntino di lunedì dieta 1",
+    "cena": "cena lunedì dieta 1",
+    "merenda": "merenda lunedì dieta 1",
+    "colazioneB": "una tazza di the e 4 biscotti",
+    "pranzoB": "pranzo di lunedì dieta 1",
+    "spuntinoB": "spuntino di lunedì dieta 1",
+    "cenaB": "cena lunedì dieta 1",
+    "merendaB": "merenda lunedì dieta 1"
+  },
+  "lista_spesa": "1 carota"
+}
