@@ -1,90 +1,13 @@
 {
   "NumeroDieta": 1,
-  "Nome Dieta": "Dieta 1",
-  "scopo dieta": "dimagrimento",
   "lunedì": {
-    "colazione": "una tazza di latte e quattro biscotti",
-    "pranzo": "pranzo di lunedì dieta 1",
-    "spuntino": "spuntino di lunedì dieta 1",
-    "cena": "cena lunedì dieta 1",
-    "merenda": "merenda lunedì dieta 1",
-    "colazioneB": "una tazza di the e 4 biscotti",
-    "pranzoB": "pranzo di lunedì dieta 1",
-    "spuntinoB": "spuntino di lunedì dieta 1",
-    "cenaB": "cena lunedì dieta 1",
-    "merendaB": "merenda lunedì dieta 1"
+    "colazione": "una tazza di latte e quattro biscotti"
   },
   "martedì": {
-    "colazione": "una tazza di latte e quattro biscotti",
-    "pranzo": "pranzo di lunedì dieta 1",
-    "spuntino": "spuntino di lunedì dieta 1",
-    "cena": "cena lunedì dieta 1",
-    "merenda": "merenda lunedì dieta 1",
-    "colazioneB": "una tazza di the e 4 biscotti",
-    "pranzoB": "pranzo di lunedì dieta 1",
-    "spuntinoB": "spuntino di lunedì dieta 1",
-    "cenaB": "cena lunedì dieta 1",
-    "merendaB": "merenda lunedì dieta 1"
+    "colazione": " un pezzo di pane di 50 grammi con prosciutto 15 grammi e un bicchiere di estratto o spremuta di agrumi"
   },
   "mercoledì": {
-    "colazione": "una tazza di latte e quattro biscotti",
-    "pranzo": "pranzo di lunedì dieta 1",
-    "spuntino": "spuntino di lunedì dieta 1",
-    "cena": "cena lunedì dieta 1",
-    "merenda": "merenda lunedì dieta 1",
-    "colazioneB": "una tazza di the e 4 biscotti",
-    "pranzoB": "pranzo di lunedì dieta 1",
-    "spuntinoB": "spuntino di lunedì dieta 1",
-    "cenaB": "cena lunedì dieta 1",
-    "merendaB": "merenda lunedì dieta 1"
+    "colazione": " uno yogurt 125 grammi e 40 grammi di cereali "
   },
-  "giovedì": {
-    "colazione": "una tazza di latte e quattro biscotti",
-    "pranzo": "pranzo di lunedì dieta 1",
-    "spuntino": "spuntino di lunedì dieta 1",
-    "cena": "cena lunedì dieta 1",
-    "merenda": "merenda lunedì dieta 1",
-    "colazioneB": "una tazza di the e 4 biscotti",
-    "pranzoB": "pranzo di lunedì dieta 1",
-    "spuntinoB": "spuntino di lunedì dieta 1",
-    "cenaB": "cena lunedì dieta 1",
-    "merendaB": "merenda lunedì dieta 1"
-  },
-  "venerdì": {
-    "colazione": "una tazza di latte e quattro biscotti",
-    "pranzo": "pranzo di lunedì dieta 1",
-    "spuntino": "spuntino di lunedì dieta 1",
-    "cena": "cena lunedì dieta 1",
-    "merenda": "merenda lunedì dieta 1",
-    "colazioneB": "una tazza di the e 4 biscotti",
-    "pranzoB": "pranzo di lunedì dieta 1",
-    "spuntinoB": "spuntino di lunedì dieta 1",
-    "cenaB": "cena lunedì dieta 1",
-    "merendaB": "merenda lunedì dieta 1"
-  },
-  "sabato": {
-    "colazione": "una tazza di latte e quattro biscotti",
-    "pranzo": "pranzo di lunedì dieta 1",
-    "spuntino": "spuntino di lunedì dieta 1",
-    "cena": "cena lunedì dieta 1",
-    "merenda": "merenda lunedì dieta 1",
-    "colazioneB": "una tazza di the e 4 biscotti",
-    "pranzoB": "pranzo di lunedì dieta 1",
-    "spuntinoB": "spuntino di lunedì dieta 1",
-    "cenaB": "cena lunedì dieta 1",
-    "merendaB": "merenda lunedì dieta 1"
-  },
-  "domenica": {
-    "colazione": "una tazza di latte e quattro biscotti",
-    "pranzo": "pranzo di lunedì dieta 1",
-    "spuntino": "spuntino di lunedì dieta 1",
-    "cena": "cena lunedì dieta 1",
-    "merenda": "merenda lunedì dieta 1",
-    "colazioneB": "una tazza di the e 4 biscotti",
-    "pranzoB": "pranzo di lunedì dieta 1",
-    "spuntinoB": "spuntino di lunedì dieta 1",
-    "cenaB": "cena lunedì dieta 1",
-    "merendaB": "merenda lunedì dieta 1"
-  },
-  "lista_spesa": "1 carota"
+  "lista_spesa": "mezzo litro di patte parzialmete scremato, tre cialde di caffe, un pacco di biscotti, 500 grammi di pane, 60 grammi di affettato,6 yogurt, un pacco di cereali , mezzo litro di latte d'avena, una scatola di te, un pacco di fette biscottate, un barattolo di marmellata, una scatola di barrette, una confezionme di frutta secca, un pacco di cialde di riso, un pacco di uova , un litro d'olio extra vergine d'oliva, un pacco di pasta , un kilo e 500 grammi di frutta, 250 grammi di carne, un pacco di riso, una busta di parmigiano reggiano, 100 grammi di patate, 650 grammi di pesce, 600 grammi di pane, 2 kili e 500 grammi di verdure e ortaggi, 1 barattolo di legumi, 150 grammi di formaggio magro "
 }
